@@ -1,4 +1,4 @@
-# BadmintonScramble
+# BadmintonBooking
 
 这是一个帮助预订场地的小脚本。
 
